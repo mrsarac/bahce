@@ -19,6 +19,7 @@ If you prefer browsing the contents of this site through a list instead of a gra
 
 - [All Notes](/notes)
 - [Setup-related Notes](/tags/setup)
+- [new](notes/new.md)
 
 ## Troubleshooting
 - 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
